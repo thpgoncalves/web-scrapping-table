@@ -21,4 +21,4 @@ for row in column_data[1:]:
   length = len(df)
   df.loc[length] = individual_row_data
 
-df.to_csv(r'C:\Users\user\Desktop\Companies.csv', index = False)
+df.to_csv(r'C:\Users\user\Desktop\Companies.csv', index = False) #add the local that you want to save your file here, you got to name the file and use .csv at the end.
