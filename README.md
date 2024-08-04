@@ -22,15 +22,15 @@ A web scraping program developed to get the data from the List of largest compan
 <!-- USAGE EXAMPLES -->
 ## Usage Examples
 
-Usage: Assess the financial performance of the largest companies in the United States.
+### Usage: Assess the financial performance of the largest companies in the United States.
 
-Application:
-Financial data from Wikipedia can be used extensively in investment analysis and market research. Investors and financial analysts can compare the revenue, profit margins, and growth rates of top companies to identify investment opportunities and make informed decisions. Business researchers can use this data to conduct comparative studies, highlighting successful business practices and strategies. Furthermore, economists and policy makers can leverage this information to understand broader economic trends and develop financial policies that support economic growth and stability.
+###### Application:
+###### Financial data from Wikipedia can be used extensively in investment analysis and market research. Investors and financial analysts can compare the revenue, profit margins, and growth rates of top companies to identify investment opportunities and make informed decisions. Business researchers can use this data to conduct comparative studies, highlighting successful business practices and strategies. Furthermore, economists and policy makers can leverage this information to understand broader economic trends and develop financial policies that support economic growth and stability.
 
-Usage: Evaluate the historical performance of teams and players in various sports.
+### Usage: Evaluate the historical performance of teams and players in various sports.
 
-Application:
-Analyzing sports data can be incredibly valuable for multiple stakeholders. Sports journalists and commentators can use historical performance data to provide in-depth analyses and insights during broadcasts or articles. For betting companies and enthusiasts, this data can help in creating predictive models to forecast game outcomes, enhancing the betting experience. Additionally, sports analysts and coaches can study the impact of rule changes over time, which can inform strategies and training methods to improve team and player performance.
+###### Application:
+###### Analyzing sports data can be incredibly valuable for multiple stakeholders. Sports journalists and commentators can use historical performance data to provide in-depth analyses and insights during broadcasts or articles. For betting companies and enthusiasts, this data can help in creating predictive models to forecast game outcomes, enhancing the betting experience. Additionally, sports analysts and coaches can study the impact of rule changes over time, which can inform strategies and training methods to improve team and player performance.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
